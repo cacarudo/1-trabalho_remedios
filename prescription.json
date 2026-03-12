@@ -1,62 +1,57 @@
 {
-    "7;3463;:3": [
-        "Digoxina",
-        "Guanetidina",
-        "Fenilbutazona",
-        "Cloranfenicol",
-        "Naproxeno"
-    ],
-    "8;:6:45<3": [
-        "Indometacina",
-        "Meprobamato",
-        "Simpaticomiméticos (A. Directa)"
-    ],
-    "6<:8<4345": [
-        "Analgésicos Narcóticos",
-        "Rifampicina",
-        "Corticosteróides"
-    ],
-    "5;;<6;469": [
-        "Esteróides Anabólicos",
-        "Tiazidas",
-        "Antiácidos"
-    ],
-    ";53878<<7": [
-        "Fenilbutazona",
-        "Cefaloridina (Ceporan)",
-        "Antibióticos (Largo Espectro)"
-    ],
-    "<7<57:<<4": [
-        "Metotrexato",
-        "Carbamazepina",
-        "Cefaloridina (Ceporan)",
-        "Rifampicina",
-        "Esteróides Anabólicos"
-    ],
-    ":7785348:": [
-        "Contraceptivos Orais",
-        "Álcool (bebida)",
-        "Metotrexato",
-        "Guanetidina",
-        "Quinidina"
-    ],
-    "96;54:589": [
-        "Tetraciclinas",
-        "Bloqueantes Neuromusculares",
-        "Hidrato de Cloral",
-        "Tiazidas"
-    ],
-    "493683454": [
-        "Metildopa",
-        "Antidepressivos Tricíclicos",
+    "49544;78:": [
         "Ácido Ectacrínico",
-        "Metotrexato",
-        "Bloqueantes Neuromusculares"
+        "Tiramina (Alimentos, Etc.)",
+        "Indometacina"
     ],
-    "69:38;78:": [
-        "Cloranfenicol",
-        "Carbamazepina",
-        "Levodopa",
-        "Benzodiazepinas (Diazepam)"
+    ":59458763": [
+        "Quinidina",
+        "Griseofulvina",
+        "Rifampicina",
+        "Sulfonamidas"
+    ],
+    "673;48:55": [
+        "Tiramina (Alimentos, Etc.)",
+        "Hidrato de Cloral",
+        "Fenitoína",
+        "Analgésicos Narcóticos"
+    ],
+    "45869:888": [
+        "Tiroxina",
+        "Griseofulvina",
+        "Sulfonilinas (Clorpropamida)"
+    ],
+    "76:574769": [
+        "Ácido Acetilsalicílico",
+        "Quinidina",
+        "Guanetidina",
+        "Guanetidina"
+    ],
+    "7<5644736": [
+        "Fenotiazinas (Clorpromazina)",
+        "Hidrato de Cloral",
+        "Indometacina"
+    ],
+    "846556:79": [
+        "Antidepressivos Tricíclicos",
+        "Sulfonamidas",
+        "Ácido Acetilsalicílico"
+    ],
+    "53<47999:": [
+        "Analgésicos Narcóticos",
+        "Clofibrato",
+        "Biguanidas (Fenformina)"
+    ],
+    ":935;5:33": [
+        "Bloqueadores adrenérgicos beta",
+        "Ácido Mefenâmico",
+        "Furosemida",
+        "Metronidazol"
+    ],
+    "<438<4455": [
+        "Fenotiazinas (Clorpromazina)",
+        "Sulfimpirazona",
+        "Furosemida",
+        "Barbitúricos"
     ]
 }

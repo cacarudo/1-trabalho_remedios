@@ -163,8 +163,23 @@ def description_utent_number(prescription:dict, chave:int)->dict:
     no_ascii= [[chr(ascii_val) for ascii_val in sublista] for sublista in ascii_listas] #transform the ascii values back to characters
     lista_descriptada = [''.join(sublista) for sublista in no_ascii] #join the characters to form the descripted utent number
     descripted_dict = {lista_descriptada[i] : prescription[key] for i, key in enumerate(prescription)}
-    return descripted_dict
+    return descripted_dict 
 
+def hashing_folding(prescription:dict, table_size:int, keyedhash:int)->list:
+    """
+    apply folding method to hash the utent number in the prescription
+
+    param dict: the prescription that will be hashed
+    param table_size: the size of the hash table
+    retrun: the prescription with the utent number hashed
+    """
+    hashed_dict = []
+    for key in prescription:
+        key_str = str(key)
+        fold_sum = sum(int(ord(digit)) for digit in key_str) + keyedhash  # Sum of digits
+        hashed_key = fold_sum % table_size  # Modulo by table size
+        hashed_dict.append(hashed_key)
+    return hashed_dict
 
 medicines = convert_txt_list("medicines.txt")
 matriz = generate_intercection_matriz(medicines)
@@ -175,3 +190,4 @@ encripted_prescription = encription_utent_number(prescription, 3)
 print(encripted_prescription)
 edit_json(encripted_prescription, "prescription.json")
 print(description_utent_number(encripted_prescription, 3))
+print([hex(hexadecimal) for hexadecimal in hashing_folding((prescription), 256, 123987)])
