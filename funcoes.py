@@ -1,6 +1,5 @@
 import random 
 import json
-import os
 from openpyxl import workbook as opyxl
 
 def convert_txt_list(filename:str)->list:

@@ -1,57 +1,53 @@
 {
-    "49544;78:": [
-        "Ácido Ectacrínico",
-        "Tiramina (Alimentos, Etc.)",
-        "Indometacina"
-    ],
-    ":59458763": [
-        "Quinidina",
+    "<66436795": [
         "Griseofulvina",
-        "Rifampicina",
-        "Sulfonamidas"
+        "Antidepressivos Tricíclicos",
+        "Benzodiazepinas (Diazepam)"
     ],
-    "673;48:55": [
-        "Tiramina (Alimentos, Etc.)",
-        "Hidrato de Cloral",
-        "Fenitoína",
+    "8;3975658": [
+        "Guanetidina",
+        "Sulfonilinas (Clorpropamida)",
+        "Isoniazida",
         "Analgésicos Narcóticos"
     ],
-    "45869:888": [
-        "Tiroxina",
-        "Griseofulvina",
-        "Sulfonilinas (Clorpropamida)"
-    ],
-    "76:574769": [
-        "Ácido Acetilsalicílico",
+    "8<4643<;;": [
         "Quinidina",
-        "Guanetidina",
-        "Guanetidina"
+        "Isoniazida",
+        "Quinidina",
+        "Meprobamato",
+        "Simpaticomiméticos (A. Indirecta)"
     ],
-    "7<5644736": [
+    ";64;;3345": [
+        "Sulfonilinas (Clorpropamida)",
+        "iMAOs",
+        "Cefaloridina (Ceporan)",
+        "Bloqueadores adrenérgicos beta",
+        "Procainamida"
+    ],
+    "<5393496;": [
+        "Benzodiazepinas (Diazepam)",
+        "Rifampicina",
+        "Procainamida",
+        "Cefaloridina (Ceporan)",
+        "Rifampicina"
+    ],
+    "7834:56:8": [
+        "Levodopa",
+        "Sulfonilinas (Clorpropamida)",
+        "iMAOs",
+        "Sulfimpirazona"
+    ],
+    "4989:<7;7": [
+        "Naproxeno",
         "Fenotiazinas (Clorpromazina)",
-        "Hidrato de Cloral",
+        "Piridoxina",
+        "Anticoagulantes Orais",
         "Indometacina"
     ],
-    "846556:79": [
-        "Antidepressivos Tricíclicos",
-        "Sulfonamidas",
-        "Ácido Acetilsalicílico"
-    ],
-    "53<47999:": [
+    "7<4<466:5": [
+        "Esteróides Anabólicos",
+        "Dicloralfenazona",
         "Analgésicos Narcóticos",
-        "Clofibrato",
         "Biguanidas (Fenformina)"
-    ],
-    ":935;5:33": [
-        "Bloqueadores adrenérgicos beta",
-        "Ácido Mefenâmico",
-        "Furosemida",
-        "Metronidazol"
-    ],
-    "<438<4455": [
-        "Fenotiazinas (Clorpromazina)",
-        "Sulfimpirazona",
-        "Furosemida",
-        "Barbitúricos"
     ]
 }
